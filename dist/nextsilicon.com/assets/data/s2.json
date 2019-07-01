@@ -1,0 +1,47 @@
+{
+    "department": "Software",
+    "openPositions": 1,
+    "positionNumber": "s2",
+    "type": "ENGINEERING",
+    "title": "Senior Software Engineer",
+    "jobSummary": [
+        "NextSilicon is looking for a talented and experienced software engineer to help develop the company’s key product. In this role you will work in multiple layers of the SW stack including toolchain, driver, and runtime algorithms. You will be dealing with innovative and challenging system architecture and will develop multidisciplinary skills by traversing multiple domains. Overall, you will gain a deeper understanding of the heart of computing architecture."
+    ],
+    "responsibilities": [
+        {
+            "ul": "Lead part of the development of the company’s core product including low-level SW, a compiler, and runtime algorithms"
+        },
+        {
+            "ul": "Define feature development scope and plan for successful product delivery"
+        },
+        {
+            "ul": "Design SW from scratch using knowledge from multiple disciplines and programming languages"
+        },
+        {
+            "ul": "Understand and learn a full system feature end-to-end and implement it in multiple SW layers"
+        }
+    ],
+    "keyQualifications": [
+        {
+            "ul": "5+ years of software engineering experience"
+        },
+        {
+            "ul": "A genuine passion for fixing software and hardware issues"
+        },
+        {
+            "ul": "Strong knowledge of processor architecture (CPU/bus/subsystems/peripherals/clocks/power states)"
+        },
+        {
+            "ul": "Previous experience with reversing, compilers, kernel, OS drivers, and ARM/x86 assembly languages is an advantage"
+        },
+        {
+            "ul": "Excellent C/C++ programming skills"
+        },
+        {
+            "ul": "Demonstrated creative and critical thinking capabilities"
+        },
+        {
+            "ul": "Bachelor’s or Master’s degree, and/or equivalent experience in computer science or a related field is preferred"
+        }
+    ]
+}

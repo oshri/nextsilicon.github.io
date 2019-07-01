@@ -1,0 +1,26 @@
+{
+    "name": "nextsilicon.com",
+    "version": "0.0.1",
+    "scripts": {
+      "deploy": "npx angular-cli-ghpages --dir=dist/nextsilicon.com --no-silent",
+      "prettier": "prettier --config prettier.config.js",
+      "precommit": "lint-staged"
+    },
+    "lint-staged": {
+      "*.{js,ts}": [
+        "prettier --write",
+        "git add"
+      ]
+    },
+    "husky": {
+      "hooks": {
+        "pre-commit": "npm run precommit && npm run lint"
+      }
+    },
+    "private": true,
+    "devDependencies": {
+      "lint-staged": "^8.2.0",
+      "prettier": "^1.18.2"
+    }
+  }
+  

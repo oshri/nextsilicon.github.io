@@ -1,0 +1,62 @@
+{
+    "lastUpdate": "Thu Jun 27 2019 09:28:22 GMT+0300",
+    "sections": [
+        {
+            "department": "Hardware",
+            "positions": [
+                {
+                    "openPositions": 1,
+                    "positionNumber": "h1",
+                    "type": "ENGINEERING",
+                    "title": "Hardware engineer (student; part-time)",
+                    "promote": false
+                },
+                {
+                    "openPositions": 3,
+                    "positionNumber": "h2",
+                    "type": "ENGINEERING",
+                    "title": "Hardware engineer",
+                    "promote": false
+                }
+            ]
+        },
+        {
+            "department": "Software",
+            "positions": [
+                {
+                    "openPositions": 1,
+                    "positionNumber": "s1",
+                    "type": "MANAGEMENT",
+                    "title": "Software Manager",
+                    "promote": true
+                },
+                {
+                    "openPositions": 9,
+                    "positionNumber": "s2",
+                    "type": "ENGINEERING",
+                    "title": "Senior Software Engineer",
+                    "promote": false
+                },
+                {
+                    "openPositions": 2,
+                    "positionNumber": "s3",
+                    "type": "ENGINEERING",
+                    "title": "Junior Software Engineer",
+                    "promote": false
+                }
+            ]
+        },
+        {
+            "department": "Business",
+            "positions": [
+                {
+                    "openPositions": 1,
+                    "positionNumber": "b1",
+                    "type": "MANAGEMENT",
+                    "title": "VP Business Development",
+                    "promote": true
+                }
+            ]
+        }
+    ]
+}

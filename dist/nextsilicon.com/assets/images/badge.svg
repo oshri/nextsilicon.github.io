@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="194px" height="194px" viewBox="0 0 194 194" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>badge</title>
+    <desc>Created with Sketch.</desc>
+    <g id="badge" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NSIcon" transform="translate(16.000000, 49.000000)">
+            <g>
+                <polygon id="Fill-1" fill="#2F2F3B" points="83.511525 0 13 31.9805882 41.7217954 45 83.511525 26.0476175 125.288289 44.995603 154 31.9673973"></polygon>
+                <polygon id="Fill-2" fill="#2F2F3B" points="81.0007297 71.8613036 0 37 0 62.1344686 81.0007297 97 162 62.1344686 162 37"></polygon>
+                <polygon id="Fill-3" fill="#F2F2F2" points="39.4054054 46.8718106 10.2162162 33.8077159 0 36.710848 80.2702703 73 162 36.710848 153.243243 33.8077159 124.054054 46.8718106 81.7297297 28"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
