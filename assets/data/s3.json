@@ -1,0 +1,44 @@
+{
+    "department": "Software",
+    "openPositions": 1,
+    "positionNumber": "s3",
+    "type": "ENGINEERING",
+    "title": "Junior Software Engineer",
+    "jobSummary": [
+        "NextSilicon is looking for a talented software engineer to develop the company’s key product. In this role you will work in multiple layers of the SW stack including toolchain, driver, and runtime algorithms. Overall, you will expand your scope of software knowledge beyond a single domain and gain experience with low-level SW as well as applications, frameworks, and optimization."
+    ],
+    "responsibilities": [
+        {
+            "ul": "Participate in the development of the company's SW stack, focusing on one or multiple domains, from definition to unit-level testing "
+        },
+        {
+            "ul": "Design SW from scratch using knowledge from multiple disciplines and languages"
+        },
+        {
+            "ul": "Implement end-to-end features in multiple SW layers"
+        },
+        {
+            "ul": "Implement smart algorithms and solutions"
+        }
+    ],
+    "keyQualifications": [
+        {
+            "ul": "3+ years of software engineering experience"
+        },
+        {
+            "ul": "A genuine passion for fixing software and hardware issues"
+        },
+        {
+            "ul": "Excellent C/C++ programming skills"
+        },
+        {
+            "ul": "Demonstrated creative and critical thinking capabilities"
+        },
+        {
+            "ul": "Previous experience with reversing, compilers, kernel, OS drivers, and ARM/x86 assembly languages is an advantage"
+        },
+        {
+            "ul": "Bachelor’s or Master’s degree, and/or equivalent experience in computer science or a related field is preferred"
+        }
+    ]
+}

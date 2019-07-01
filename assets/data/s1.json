@@ -1,0 +1,65 @@
+{
+    "department": "Software",
+    "openPositions": 1,
+    "positionNumber": "s1",
+    "type": "MANAGEMENT",
+    "title": "Software Manager",
+    "jobSummary": [
+        "NextSilicon is looking for a talented and experienced software engineering manager to help build and lead the team that will deliver the entire SW solution for an innovative multidisciplinary computing system. In this role you will bridge the gap between architecture, software, and hardware, creating a full SW stack including toolchain, driver, and runtime SW while dealing with innovative and challenging system architecture. In this unique and highly visible role you will be at the center of developing and delivering the company’s entire SW stack."
+    ],
+    "responsibilities": [
+        {
+            "ul": "Lead a team of junior and senior software engineers"
+        },
+        {
+            "ul": "Define feature development scope and plan for successful product delivery"
+        },
+        {
+            "ul": "Manage several activities and priorities, as well as conflicting points of view"
+        },
+        {
+            "ul": "Set expectations with software, architecture, and hardware stakeholders"
+        },
+        {
+            "ul": "Balance high-quality product delivery under extremely tight schedules while fostering long-term innovation"
+        },
+        {
+            "ul": "Act as a technical leader when design directions are unclear"
+        },
+        {
+            "ul": "Strengthen and grow the team by hiring and retaining top engineering talent"
+        }
+    ],
+    "keyQualifications": [
+        {
+            "ul": "3+ years of managerial experience and 8+ years of software engineering experience"
+        },
+        {
+            "ul": "Leadership and excellent collaboration skills"
+        },
+        {
+            "ul": "Strong knowledge of processor architecture"
+        },
+        {
+            "ul": "Previous experience with compilers, kernel, drivers, and ARM/x86 assembly languages is an advantage"
+        },
+        {
+            "ul": "Strong coding skills in C/C++ programming languages"
+        },
+        {
+            "ul": "Strong design and analytical skills"
+        },
+        {
+            "ul": "Ability to manage multiple tasks and prioritize work to meet deadlines"
+        },
+        {
+            "ul": "Experience in building and directing a team of skilled engineers"
+        },
+        {
+            "ul": "Passion for low-level design, computer science, and software engineering design"
+        },
+        {
+            "ul": "Bachelor’s or Master’s degree, and/or equivalent experience in computer science or a related field is preferred"
+        }
+    ]
+}
