@@ -1,0 +1,65 @@
+{
+    "department": "Hardware",
+    "openPositions": 3,
+    "positionNumber": "h2",
+    "type": "ENGINEERING",
+    "title": "Senior Physical Design Engineer",
+    "jobSummary": [
+        "NextSilicon is looking for a talented and experienced engineer to participate in the physical design activities of the company’s product. This position involves working with external backend vendors as well as carrying out critical tasks in-house, and leading aggressive backend methods to meet challenging targets in terms of area, timing, and layout. In this role, you will be at the center of the company’s design efforts and will have a significant influence on product architecture."
+    ],
+    "responsibilities": [
+        {
+            "ul": "Generate and analyze critical block/chip-level static timing constraints "
+        },
+        {
+            "ul": "Spec and define full chip floor-plan including pin placement, partitions, and power grid"
+        },
+        {
+            "ul": "Develop and validate high-performance low power clock network guidelines"
+        },
+        {
+            "ul": "Perform critical block-level place and route and make design decisions that meet timing, area, and power constraints"
+        },
+        {
+            "ul": "Review the vendors’ physical design verification flow at chip/block level and provide guidelines to other designers on how to fix LVS/DRC violations"
+        },
+        {
+            "ul": "Work with vendors on defining physical design methodologies and assist in flow development for chip integratio"
+        }
+    ],
+    "keyQualifications": [
+        {
+            "ul": "10+ years of physical design experience, leading complex process designs"
+        },
+        {
+            "ul": "In-depth knowledge of process considerations and circuit aspects"
+        },
+        {
+            "ul": "Knowledge of physical design industry standards and practices, including physically aware synthesis, floor-planning, and place and route"
+        },
+        {
+            "ul": "Experience developing and implementing power-grid and clock specifications"
+        },
+        {
+            "ul": "Solid understanding of all aspects of physical construction, integration, and physical verification"
+        },
+        {
+            "ul": "Good command of industry standard physical design and synthesis tools"
+        },
+        {
+            "ul": "Understanding of scripting languages such as Perl/Tcl"
+        },
+        {
+            "ul": "Working knowledge of extraction and STA methodologies and tools"
+        },
+        {
+            "ul": "Good understanding of physical design verification methodology for debugging LVS/DRC issues at chip/block level"
+        },
+        {
+            "ul": "Proficiency in power delivery, signal integrity, advanced packaging, power projection, and design for low dynamic power"
+        },
+        {
+            "ul": "Master’s degree in electrical engineering or computer science, and/or equivalent experience"
+        }
+    ]
+}
