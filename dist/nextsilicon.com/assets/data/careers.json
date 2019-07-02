@@ -15,7 +15,14 @@
                     "openPositions": 3,
                     "positionNumber": "h2",
                     "type": "ENGINEERING",
-                    "title": "Hardware engineer",
+                    "title": "Senior Verification Engineer",
+                    "promote": false
+                },
+                {
+                    "openPositions": 1,
+                    "positionNumber": "h3",
+                    "type": "ENGINEERING",
+                    "title": "Senior Physical Design Engineer",
                     "promote": false
                 }
             ]
