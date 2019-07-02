@@ -4,7 +4,7 @@
   "index": "/nextsilicon.github.io/index.html",
   "assetGroups": [
     {
-      "name": "nextsilicon.com",
+      "name": "nextsilicon.github.io",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
